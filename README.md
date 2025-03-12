@@ -1,2 +1,2 @@
-# Ai News linkedIn autometion 
+# Ai News linkedIn automation 
 
